@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Mecanica_Automotriz/static/css/main.54a5c4ea.css",
-    "main.js": "/Mecanica_Automotriz/static/js/main.92dfd332.js",
+    "main.css": "/Mecanica_Automotriz/static/css/main.8c21c99e.css",
+    "main.js": "/Mecanica_Automotriz/static/js/main.e93ca102.js",
     "index.html": "/Mecanica_Automotriz/index.html",
-    "main.54a5c4ea.css.map": "/Mecanica_Automotriz/static/css/main.54a5c4ea.css.map",
-    "main.92dfd332.js.map": "/Mecanica_Automotriz/static/js/main.92dfd332.js.map"
+    "main.8c21c99e.css.map": "/Mecanica_Automotriz/static/css/main.8c21c99e.css.map",
+    "main.e93ca102.js.map": "/Mecanica_Automotriz/static/js/main.e93ca102.js.map"
   },
   "entrypoints": [
-    "static/css/main.54a5c4ea.css",
-    "static/js/main.92dfd332.js"
+    "static/css/main.8c21c99e.css",
+    "static/js/main.e93ca102.js"
   ]
 }
