@@ -10,7 +10,10 @@ function Nav() {
             <div className="nav-taller">
                 
                 <div>
-                    <h4>Taller Automotríz "El GRINGO"</h4>
+                    <Link to="/Mecanica_Automotriz">
+                        <h4>Taller Automotríz "El GRINGO"</h4>
+                    </Link>
+                    
                 </div>
                 <div className='LINKS-nav'>
                     <div className='LINKS'>
