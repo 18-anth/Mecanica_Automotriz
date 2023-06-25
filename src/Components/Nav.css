@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.nav-taller {
+    background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+    text-align: center;
+    font-size: 1.2rem;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+
+}
+
+
+
+.nav-taller h4 {
+    color: white;
+    font-size: 20px;
+}
+
+.LINKS-nav {
+ 
+    display: flex;
+    justify-content: space-between;
+}
+
+.LINKS {
+    color: #fff;
+    display: flex;
+    align-items: center;
+
+    padding: 0.5rem 1rem;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+.LINKS:hover {
+    border-bottom: 4px solid #fff;
+    transition: all 0.2s ease-out;
+
+}
