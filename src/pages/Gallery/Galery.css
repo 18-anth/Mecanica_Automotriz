@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+.gallery-content{
+    height: 100vh;
+}
+
 h1{
     text-align: center;
     align-items: center;

@@ -8,25 +8,28 @@ class Galeria extends Component {
   render() {
     return (
       <>
-        <div>
-          <h1>
-            Hello Gallery
-          </h1>
+        <div className='gallery-content'>
+          <div>
+            <h1>
+              Hello Gallery
+            </h1>
+          </div>
+          <section>
+            <div>
+              <Cards1 />
+            </div>
+            <div>
+              <Cards2 />
+            </div>
+            <div>
+              <Cards1 />
+            </div>
+            <div>
+              <Cards1 />
+            </div>
+          </section>
         </div>
-        <section>
-          <div>
-            <Cards1 />
-          </div>
-          <div>
-            <Cards2 />
-          </div>
-          <div>
-            <Cards1 />
-          </div>
-          <div>
-            <Cards1 />
-          </div>
-        </section>
+
       </>
     );
   };
