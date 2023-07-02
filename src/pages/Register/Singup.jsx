@@ -4,11 +4,11 @@ class Singup extends Component {
   render() {
     return (
       <>
-        <dvi>
+        <div className='register-content'>
           <h1>
             Hello Singup
           </h1>
-        </dvi>
+        </div>
       </>
     );
   };

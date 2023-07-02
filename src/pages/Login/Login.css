@@ -15,22 +15,29 @@ h1{
 **/*
 box-shadow: 2px 1px 5px 4px rgba(0, 0, 0, 0.199);
 */**
+.space{
+   
+}
 .cont{
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
 }
 .login-content{
     padding: 20px;
     display: flex;
     justify-content: center;
-    
+    margin: auto;
 }
 .login-content div{
-    
+   
     padding: 10px;
     text-align: center;
     justify-content: center;
     align-items: center;
 }
 .dert{
+    height: 100%;
     max-width: 50%;
     justify-content: space-between;
 }

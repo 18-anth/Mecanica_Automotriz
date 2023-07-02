@@ -4,8 +4,8 @@
 }
 
 .home-img{
-    width: 100%;
-    margin: auto;
+    
+    height: 90vh;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -13,7 +13,7 @@
     align-items: center;
     position: relative;
     z-index: 1;
-    height: 100%;
+    
     position: relative; 
     background-image: url("https://img.autosblogmexico.com/2019/11/27/hVoAV2LR/mecanico-4-182c.jpg");
     background-position: center;
